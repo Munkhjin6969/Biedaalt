@@ -1,4 +1,4 @@
-package Java;
+package org.example.flashcard;
 
 
 public class Card {

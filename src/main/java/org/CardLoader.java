@@ -1,4 +1,4 @@
-package Java;
+package org.example.flashcard;
 
 import java.io.*;
 import java.util.*;

@@ -1,8 +1,7 @@
-package Java;
+package org.example.flashcard;
 
 import java.util.List;
 import java.util.Map;
-
 import javax.smartcardio.Card;
 
 public interface CardOrganizer {

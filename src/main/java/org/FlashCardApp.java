@@ -1,4 +1,5 @@
-package Java;
+package org.example.flashcard;
+
 public class FlashCardApp {
     private List<Card> cards;
     private final CardOrganizer organizer;
